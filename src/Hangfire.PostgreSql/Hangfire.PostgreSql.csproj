@@ -4,7 +4,8 @@
     <Description>PostgreSql storage implementation for Hangfire (background job system for ASP.NET applications).</Description>
     <Copyright>Copyright © 2014-2018 Frank Hommers and others</Copyright>
     <AssemblyTitle>Hangfire PostgreSql Storage</AssemblyTitle>
-    <VersionPrefix>1.5.0</VersionPrefix>
+    <VersionPrefix>1.5.1</VersionPrefix>
+    <VersionSuffix>sumo1</VersionSuffix>
     <Authors>Frank Hommers and others (Burhan Irmikci (barhun), Zachary Sims(zsims), kgamecarter, Stafford Williams (staff0rd), briangweber, Viktor Svyatokha (ahydrax), Christopher Dresel (Dresel), Ben Herila (bherila), Vytautas Kasparavičius (vytautask)</Authors>
     <TargetFrameworks>netstandard2.0;net451</TargetFrameworks>
     <AssemblyName>Hangfire.PostgreSql</AssemblyName>
@@ -14,9 +15,6 @@
     <PackageReleaseNotes>https://github.com/frankhommers/Hangfire.PostgreSql/releases</PackageReleaseNotes>
     <PackageProjectUrl>http://hmm.rs/Hangfire.PostgreSql</PackageProjectUrl>
     <PackageLicenseUrl>https://raw.github.com/frankhommers/Hangfire.PostgreSql/master/LICENSE.md</PackageLicenseUrl>
-    <Version>1.5.0</Version>
-    <FileVersion>1.5.0</FileVersion>
-    <AssemblyVersion>1.5.0</AssemblyVersion>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
